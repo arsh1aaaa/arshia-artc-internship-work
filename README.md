@@ -1,0 +1,2 @@
+- main.py is a fastapi application which does product segmentation based on abc and xyz classification methods 
+- the remaining files are the preliminary source codes for selected inventory policies
